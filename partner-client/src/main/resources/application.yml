@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+partner:
+  host: ws://localhost:8080
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: tr
+    password: 1234
